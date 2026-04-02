@@ -1,6 +1,6 @@
 # 👋 k4runa
 
-> 16, Turkey. self-taught. no university, just terminal.
+> 16, Turkey. self-taught.
 >
 > fine-tuned models before i knew what a derivative was.
 
