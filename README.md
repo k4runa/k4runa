@@ -1,4 +1,4 @@
-# Bonjor! I am [Enes]
+# Bonjor! I am Enes
 
 16, Turkey. self-taught. no university, just terminal.
 
