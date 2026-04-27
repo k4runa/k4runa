@@ -1,4 +1,4 @@
-# 👋 k4runa
+# 👋 Enes
 
 > 16, Turkey. self-taught.
 >
