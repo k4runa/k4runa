@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 things i've shipped
+## things i've shipped
 
 | Project | Model | Accuracy | Stack |
 |---------|-------|----------|-------|
@@ -32,12 +32,13 @@
 
 ---
 
-## 📚 currently learning
+## currently learning
 
-- 🔄 RAG (Retrieval Augmented Generation)
-- 🐳 Docker containerization
+- RAG (Retrieval Augmented Generation)
+- Docker containerization
+- React
 
-## 🎯 next goal
+## next goal
 
 something bigger...
 
